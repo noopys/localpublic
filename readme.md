@@ -1,6 +1,3 @@
-# Wiki
-https://github.com/Dari9590/Local/wiki
-
 # Setup
 - This is assuming usage of Ubuntu `22.04.02`
     - get that version of ubuntu setup in wsl and use the linux enviroment for this if you are in windows
